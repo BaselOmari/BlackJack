@@ -1,2 +1,2 @@
-# BlackJack
-My own version of Blackjack on python v1.0
+# BlackJack v1.0
+My own version of Blackjack v1.0 on Python
