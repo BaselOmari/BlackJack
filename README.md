@@ -11,4 +11,3 @@ What game does not include (yet):
 - Splitting
 - Insurance
 - Graphics
-- 1.5x return on any Blackjack draw
