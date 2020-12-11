@@ -1,7 +1,7 @@
-    # BlackJack with no aces
+
 from random import *
 
-turn = 3
+turn = 0
 wins = 0
 draws = 0
 losses = 0
